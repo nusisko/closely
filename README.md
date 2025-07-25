@@ -15,7 +15,7 @@ A simple, robust script that brings Capture2Text-like functionality to your Linu
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/nusisko/closely](https://github.com/nusisko/closely)
+    git clone git@github.com:nusisko/closely.git
     cd closely
     ```
 
