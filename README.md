@@ -1,7 +1,8 @@
 # Screen-OCR for Linux
 
-
 A simple, robust script that brings Capture2Text-like functionality to your Linux desktop. Quickly capture any part of your screen, perform Optical Character Recognition (OCR), and automatically copy the extracted text to your clipboard.
+
+![Demo](demo_closely.gif)
 
 ## ✨ Features
 
